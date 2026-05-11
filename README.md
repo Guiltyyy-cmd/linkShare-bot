@@ -3,7 +3,7 @@
 <img src="https://i.pinimg.com/736x/3d/45/cb/3d45cbb976ed3fb5dc7265afd9dfbf82.jpg" alt="Linkshare Bot Banner" width="100%" style="border-radius:12px"/>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&width=500&lines=Welcome+to+LinkShareBot;Your+Ultimate+Telegram+Link+Sharing+Bot" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&width=500&lines=Welcome+to+LinkShareBot+by+BotifyXBotz;Your+Ultimate+Telegram+Link+Sharing+Bot" />
 </h1>
 
 <br/>
