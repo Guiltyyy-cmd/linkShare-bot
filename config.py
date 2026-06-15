@@ -19,8 +19,8 @@ OWNER_ID = int(os.environ.get("OWNER_ID", "7537243058"))
 PORT     = os.environ.get("PORT", "8080")
 
 # ── Database ──────────────────────────────────────────────────────────────────
-DB_URI  = os.environ.get("DB_URI", "mongodb+srv://dubbingroup29_db_user:itsyashjha@immortaldata.ojaeaxj.mongodb.net/?retryWrites=true&w=majority")
-DB_NAME = os.environ.get("DB_NAME", "Yae_Probot")
+DB_URI  = os.environ.get("DB_URI", "")
+DB_NAME = os.environ.get("DB_NAME", "")
 
 # ── Database channel (where /genlink stores links) ────────────────────────────
 DATABASE_CHANNEL = int(os.environ.get("DATABASE_CHANNEL", -1003628073027 ))
