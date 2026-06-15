@@ -42,7 +42,7 @@ TEXT             = environ.get(
 # ── Force-Subscribe ───────────────────────────────────────────────────────────
 # FSUB_CHANNELS  : space-separated channel IDs that users MUST join before use
 FSUB_CHANNELS    = [
-    int(cid) for cid in environ.get("FSUB_CHANNELS", -1003819872917 ).split() if cid
+    int(cid) for cid in environ.get("FSUB_CHANNELS", "-1003819872917" ).split() if cid
 ]
 FSUB_LINK_EXPIRY = int(os.environ.get("FSUB_LINK_EXPIRY", "10"))   # seconds; 0 = no expiry
 
