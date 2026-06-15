@@ -104,7 +104,7 @@ ABOUT_TXT = (
 )
 
 CHANNELS_TXT = (
-    "<b>›› Uᴘᴅᴀᴛᴇs: <a href='https://t.me/BotifyX_Pro_Botz'>BᴏᴛɪғʏX-Bᴏᴛᴢ</a>\n"
+    "<b>›› Uᴘᴅᴀᴛᴇs: <a href='https://t.me/HypoFlix_Network'>HypoFlix Network</a>\n"
     "<blockquote expandable>"
     "›› sᴜᴘᴘᴏʀᴛ: <a href='https://t.me/BlurpleOg'>乃ㄥㄩ尺卩ㄥ乇 ㄖ厶</a>\n"
     "›› ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href='https://t.me/BlurpleOg'>乃ㄥㄩ尺卩ㄥ乇 ㄖ厶</a>"
